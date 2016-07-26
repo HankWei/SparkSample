@@ -1,12 +1,13 @@
 # SparkSample
 The samples are based on Apache Spark by Maven or Gradle.
-
-Requirements:
-              Eclipse 
-              Gradle 2.x 
-              Maven 2.x
-
-Gradle Project : 
-                gradle build
-Maven Project :
-                mvn package
+<p>
+Requirements:       <br>
+              Eclipse      <br>
+              Gradle 2.x   <br>
+              Maven 2.x    <br>
+<p>
+Gradle Project :  <br>
+                gradle build <br>
+<p>
+Maven Project :  <br>
+                mvn package  <br>
